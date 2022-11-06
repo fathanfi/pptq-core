@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Plugin Name:       Ncmaz Core
+ * Plugin Name:       PPTQ Core
  * Description:       Example block written with ESNext standard and JSX support.
  * Requires at least: 5.8
  * Requires PHP:      7.3
- * Version:           4.1.0
- * Author:            ChisNghiax
+ * Version:           1.0.0
+ * Author:            fathanfi
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       ncmaz-core
